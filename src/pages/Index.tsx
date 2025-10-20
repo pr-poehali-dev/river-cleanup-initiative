@@ -238,7 +238,7 @@ const Index = () => {
                   Эпизод 4: «Восстановление природы»
                 </h3>
                 <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                  Каждое действие имеет значение. Вместе мы можем остановить загрязнение рек и восстановить чистоту водных ресурсов планеты.
+                  После общественного давления завод обязую устранить незаконный сброс в реку, а Михаила привлекают к ответственности. Анна и жители деревни начинают восстанавливать реку. Они высаживают деревья, очищают воду и создают экологический парк.
                 </p>
                 <div className="flex flex-wrap gap-4 justify-center">
                   <button className="bg-primary text-primary-foreground px-8 py-4 rounded-lg font-semibold text-lg hover:bg-primary/90 transition-colors">
