@@ -136,7 +136,7 @@ const Index = () => {
                     <Icon name="AlertTriangle" className="text-destructive" size={24} />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-lg mb-1">Токсичная вода</h4>
+                    <h4 className="font-semibold text-lg mb-1">Эпизод 1: «Загрязнение реки»</h4>
                     <p className="text-muted-foreground">
                       Промышленные стоки содержат тяжёлые металлы и химикаты, опасные для здоровья
                     </p>
