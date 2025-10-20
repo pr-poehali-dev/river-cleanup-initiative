@@ -128,7 +128,7 @@ const Index = () => {
             </div>
             <div className="space-y-6 animate-fade-in">
               <h3 className="text-3xl font-bold text-foreground">
-                Последствия загрязнения
+                Обнаружение проблемы
               </h3>
               <div className="space-y-4">
                 <div className="flex items-start gap-4">
