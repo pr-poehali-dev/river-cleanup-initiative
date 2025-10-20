@@ -228,7 +228,7 @@ const Index = () => {
             <div
               className="h-[500px] bg-cover bg-center"
               style={{
-                backgroundImage: `linear-gradient(rgba(14, 165, 233, 0.3), rgba(14, 165, 233, 0.3)), url('https://cdn.poehali.dev/projects/132a2202-6e77-4f23-a46e-280b8ee18e41/files/575be459-10c3-4ffa-af5f-1d3754db25ec.jpg')`,
+                backgroundImage: `linear-gradient(rgba(14, 165, 233, 0.3), rgba(14, 165, 233, 0.3)), url('https://cdn.poehali.dev/files/89ed5c64-11d6-42d5-bbdf-05cbe702cb21.jpeg')`,
               }}
             />
             <div className="absolute inset-0 flex items-center justify-center">
