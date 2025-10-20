@@ -184,15 +184,6 @@ const Index = () => {
                   <h3 className="text-2xl font-bold text-foreground">
                     {fact.title}
                   </h3>
-                  <span
-                    className={`px-3 py-1 rounded-full text-sm font-semibold ${
-                      fact.impact === "критический"
-                        ? "bg-secondary/20 text-secondary"
-                        : "bg-primary/20 text-primary"
-                    }`}
-                  >
-                    {fact.impact}
-                  </span>
                 </div>
                 <p className="text-lg text-muted-foreground leading-relaxed">
                   {fact.text}
