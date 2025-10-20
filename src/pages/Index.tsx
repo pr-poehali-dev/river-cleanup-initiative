@@ -121,8 +121,8 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="animate-fade-in">
               <img
-                src="https://cdn.poehali.dev/projects/132a2202-6e77-4f23-a46e-280b8ee18e41/files/c97589c6-b53d-4e4d-bfd4-913af69708a5.jpg"
-                alt="Загрязнённая река"
+                src="https://cdn.poehali.dev/files/8893e596-72cd-47e6-a2d8-5edd4aacbc12.jpeg"
+                alt="Эколог исследует воду"
                 className="rounded-lg shadow-2xl w-full h-[400px] object-cover"
               />
             </div>
