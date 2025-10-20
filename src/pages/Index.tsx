@@ -147,7 +147,7 @@ const Index = () => {
                     <Icon name="Users" className="text-destructive" size={24} />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-lg mb-1">Угроза здоровью</h4>
+                    <h4 className="font-semibold text-lg mb-1">Персонажи</h4>
                     <p className="text-muted-foreground">
                       Болезни, передающиеся через загрязнённую воду, поражают миллионы людей
                     </p>
