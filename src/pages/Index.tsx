@@ -198,7 +198,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-5xl md:text-6xl font-bold mb-6 text-foreground">
-              Пути решения
+              Эпизод 3: «Протест и последствия»
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Конкретные действия, которые помогут восстановить чистоту рек и сохранить водные ресурсы для будущих поколений
