@@ -235,7 +235,7 @@ const Index = () => {
               <div className="bg-white/95 backdrop-blur-sm p-12 rounded-2xl max-w-2xl text-center shadow-xl">
                 <Icon name="Heart" className="text-primary mx-auto mb-6" size={48} />
                 <h3 className="text-4xl font-bold mb-4 text-foreground">
-                  Будущее в наших руках
+                  Эпизод 4: «Восстановление природы»
                 </h3>
                 <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
                   Каждое действие имеет значение. Вместе мы можем остановить загрязнение рек и восстановить чистоту водных ресурсов планеты.
