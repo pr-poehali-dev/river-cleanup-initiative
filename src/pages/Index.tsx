@@ -144,17 +144,6 @@ const Index = () => {
                 </div>
                 <div className="flex items-start gap-4">
                   <div className="bg-destructive/10 p-3 rounded-lg">
-                    <Icon name="Fish" className="text-destructive" size={24} />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-lg mb-1">Гибель экосистем</h4>
-                    <p className="text-muted-foreground">
-                      Массовая гибель рыбы и водных организмов из-за недостатка кислорода
-                    </p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-4">
-                  <div className="bg-destructive/10 p-3 rounded-lg">
                     <Icon name="Users" className="text-destructive" size={24} />
                   </div>
                   <div>
